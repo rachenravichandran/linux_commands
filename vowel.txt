@@ -1,0 +1,21 @@
+So I don't know what I'm typing.
+But I will type. Because the answer is yes.
+Annnnnd...Aaamnaaa....Nainaa...
+12563282518737878
+kok
+guy
+12
+342
+#include <stdio.h>
+
+/*
+	File name :.c
+	Day 	  :6
+	Purpose   : 
+*/
+
+int main()
+{
+	
+	return 0;
+}
